@@ -8,3 +8,6 @@ RECEIVER.ino
 MAC Address: EC:62:60:1D:24:88    
 
 Board module: DOITESP32 DEVKIT V1 
+
+
+Client ESP32 Understand this concept in order to change values https://linuxhint.com/use-analog-pin-as-digital/
