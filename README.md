@@ -1,7 +1,7 @@
 # Engineering-Farm-2023
 
 Use the MAC address code to get your ESP 32 address and adjust the code to fit your needs.
-Please note that the gauage threshold and diployment can also be adjusted but change during testing.
+Please note that the gauage threshold and deployment can also be adjusted but change during testing.
 
 Server.ino
 MAC Address: C8:F0:9E:4E:55:B0  
