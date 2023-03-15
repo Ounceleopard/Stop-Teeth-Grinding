@@ -1,4 +1,4 @@
-# Engineering-Farm-2023
+# ESP32-Wireless-Modules-StrainGuage-Tensor
 
 Use the MAC address code to get your ESP 32 address and adjust the code to fit your needs.
 Please note that the gauage threshold and TENS deployment high to low voltage output duration can can also be adjusted.
