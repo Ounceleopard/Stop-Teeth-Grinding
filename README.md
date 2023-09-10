@@ -11,9 +11,11 @@ Client.ino
 MAC Address: EC:62:60:1D:24:88    
 0xEC, 0x62, 0x60, 0x1D, 0x24, 0x88 // MAC address of client
 
-
+# Hardware 
 Board module: DOITESP32 DEVKIT V1 
 
+
+# Highly recommend reading
 Client ESP32 Understand these concepts
 
 https://randomnerdtutorials.com/esp32-bluetooth-low-energy-ble-arduino-ide/
