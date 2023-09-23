@@ -18,6 +18,7 @@ MAC Address: EC:62:60:1D:24:88
 # Hardware 
 Board module: DOITESP32 DEVKIT V1 
 
+# Final Product
 <img width="554" alt="Final Product" src="https://github.com/Ounceleopard/ESP32-Wireless-Modules-StrainGuage-Tensor/assets/40043757/5414573e-500d-4b56-825f-93d8fbc72c36">
 
 # Highly recommend reading
