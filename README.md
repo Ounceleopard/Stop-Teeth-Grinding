@@ -2,8 +2,8 @@
 - ESP32-WIFI-Wireless-Modules-Strain-Guage-TENS.
   
 When the patient begins to bite down the strain gauge will read this force and a small amount of voltage will be released via a TENS attachment to relax the muscles so that their mouth remains open. Further testing is needed but as a result snoring can also be affected by this action. 
--This is all done wirelessly so that the patient doesn't experience discomfort in their sleep. WIFI was used instead of BLE because it was more stable and reliable. 
-  -Power consumption is minimal due to the fact that both sender and client are only listening every other second.
+- This is all done wirelessly so that the patient doesn't experience discomfort in their sleep. WIFI was used instead of BLE because it was more stable and reliable. 
+  - Power consumption is minimal due to the fact that both sender and client are only listening every other second.
 - Please note that the gauge threshold and TENS deployment high to low voltage output duration can can also be adjusted.
 
 # Sender & Receiver
