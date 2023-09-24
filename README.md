@@ -1,6 +1,6 @@
 # ESP32-Wireless-Modules-StrainGuage-Tensor
 
-Use the MAC address code to get your ESP 32 address and adjust the code to fit your needs.
+When the person's begins to bite down a small amount of voltage will be released to relax the mouth muscles.
 Please note that the gauage threshold and TENS deployment high to low voltage output duration can can also be adjusted.
 
 # Sender & Receiver
