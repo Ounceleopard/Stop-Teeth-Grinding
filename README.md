@@ -1,4 +1,3 @@
-# ESP32-Wireless-Modules-Strain-Guage-TENS
 # What does it do?
 When the patient begins to bite down the strain gauge will read this force and a small amount of voltage will be released via a TENS attachment to relax the muscles so that their mouth remains open. Further testing is needed but as a result snoring can also be affected by this action.
 Please note that the gauge threshold and TENS deployment high to low voltage output duration can can also be adjusted.
