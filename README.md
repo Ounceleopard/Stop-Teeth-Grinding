@@ -4,7 +4,7 @@ Use the MAC address code to get your ESP 32 address and adjust the code to fit y
 Please note that the gauage threshold and TENS deployment high to low voltage output duration can can also be adjusted.
 
 # Sender & Receiver
-- Mac address of example devices, adjust to your own
+- MAC address of example devices, adjust to your own. I've supplied a script to obtain your device MAC address("Mac Address Code").
 - Server.ino (Sender)
 MAC Address: C8:F0:9E:4E:55:B0  
 0xC8, 0xF0, 0x9E, 0x4E, 0x55, 0xB0 // MAC address of server 
