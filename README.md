@@ -32,3 +32,7 @@ https://randomnerdtutorials.com/esp-now-esp32-arduino-ide/
 
 https://www.oreilly.com/library/view/getting-started-with/9781491900550/ch04.html
 
+
+
+# Disclaimer
+This code for educational purposes only, do not attempt. I am not liable for any damages or injuries.
