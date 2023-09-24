@@ -4,7 +4,7 @@ When the patient begins to bite down the strain gauge will read this force and a
 
 - This is all done wirelessly so that the patient doesn't experience discomfort in their sleep. WIFI was used instead of BLE because it was more stable and reliable. 
   - Power consumption is minimal due to the fact that both sender and client are only listening every other second.
-- Please note that the gauge threshold and TENS deployment high to low voltage output duration can can also be adjusted.
+- Please note that the gauge threshold and TENS deployment high to low voltage output duration can be adjusted.
 - ESP32-WIFI-Strain-Guage-TENS
 # Sender & Receiver
 - I've supplied a script to obtain your devices MAC addresses ("Mac Address Code").
