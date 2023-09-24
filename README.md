@@ -13,7 +13,7 @@ MAC Address: EC:62:60:1D:24:88
 0xEC, 0x62, 0x60, 0x1D, 0x24, 0x88 // MAC address of client
 
 # Hardware 
-Board module: DOITESP32 DEVKIT V1 
+- Board module: DOITESP32 DEVKIT V1 
 
 # Final Product
 <img width="554" alt="Final Product" src="https://github.com/Ounceleopard/ESP32-Wireless-Modules-StrainGuage-Tensor/assets/40043757/5414573e-500d-4b56-825f-93d8fbc72c36">
