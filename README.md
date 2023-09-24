@@ -1,6 +1,6 @@
 # ESP32-Wireless-Modules-StrainGuage-Tensor
 
-When the person's begins to bite down a small amount of voltage will be released to relax the mouth muscles.
+When the patient begins to bite down in their a small amount of voltage will be released to relax the muscles so that their mouth remains open. Further testing is needed but as a result snoring can also be affected by this action.
 Please note that the gauage threshold and TENS deployment high to low voltage output duration can can also be adjusted.
 
 # Sender & Receiver
