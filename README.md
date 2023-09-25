@@ -7,7 +7,7 @@ When the patient begins to bite down the strain gauge will read this force and a
 - Please note that the gauge threshold and TENS deployment high to low voltage output duration can be adjusted.
 - ESP32-WIFI-Strain-Guage-TENS
 # Sender & Receiver
-- Obtain your devices MAC addresses by using Mac-Address-Code.ino
+- Obtain your devices MAC addresses by using [Mac-Address-Code.ino](https://github.com/Ounceleopard/Stop-Teeth-Grinding/blob/0793f728ac65816c50a5f721e32866592153aeb7/Mac-Address-Code.ino)
 - Server.ino (Sender)
 MAC Address: C8:F0:9E:4E:55:B0  
 0xC8, 0xF0, 0x9E, 0x4E, 0x55, 0xB0 // MAC address of server 
