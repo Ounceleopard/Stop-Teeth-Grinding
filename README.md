@@ -1,4 +1,4 @@
-# How does it work?
+## How does it work?
   
 When the patient begins to bite down the strain gauge will read this force and a small amount of voltage will be released via a TENS attachment to relax the muscles so that their mouth remains open. Further testing is needed but as a result snoring can also be affected by this action. 
 
