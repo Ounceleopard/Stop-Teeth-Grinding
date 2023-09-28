@@ -1,4 +1,4 @@
-# How does it work?
+## How does it work?
   
 When the patient begins to bite down the strain gauge will read this force and a small amount of voltage will be released via a TENS attachment to relax the muscles so that their mouth remains open. Further testing is needed but as a result snoring can also be affected by this action. 
 
@@ -16,13 +16,13 @@ MAC Address: C8:F0:9E:4E:55:B0
 MAC Address: EC:62:60:1D:24:88    
 0xEC, 0x62, 0x60, 0x1D, 0x24, 0x88 // MAC address of client
 
-# Hardware 
+### Hardware 
 - Board module: DOITESP32 DEVKIT V1 
 
-# Final Product
+### Final Product
 <img width="554" alt="Final Product" src="https://github.com/Ounceleopard/ESP32-Wireless-Modules-StrainGuage-Tensor/assets/40043757/5414573e-500d-4b56-825f-93d8fbc72c36">
 
-# Highly recommend reading
+### Highly recommend reading
 Client ESP32 Understand these concepts
 
 https://randomnerdtutorials.com/esp32-bluetooth-low-energy-ble-arduino-ide/
@@ -33,7 +33,5 @@ https://randomnerdtutorials.com/esp-now-esp32-arduino-ide/
 
 https://www.oreilly.com/library/view/getting-started-with/9781491900550/ch04.html
 
-
-
-# Disclaimer
+### Disclaimer
 This code for educational purposes only, do not attempt. I am not liable for any damages or injuries.
