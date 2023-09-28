@@ -1,4 +1,4 @@
-## How does it work?
+# How does it work?
   
 When the patient begins to bite down the strain gauge will read this force and a small amount of voltage will be released via a TENS attachment to relax the muscles so that their mouth remains open. Further testing is needed but as a result snoring can also be affected by this action. 
 
@@ -6,7 +6,8 @@ When the patient begins to bite down the strain gauge will read this force and a
   - Power consumption is minimal due to the fact that both sender and client are only listening every other second.
 - Please note that the gauge threshold and TENS deployment high to low voltage output duration can be adjusted.
 - ESP32-WIFI-Strain-Guage-TENS
-# Sender & Receiver
+  
+### Sender & Receiver
 - Obtain your devices MAC addresses by using [Mac-Address-Code.ino](https://github.com/Ounceleopard/Stop-Teeth-Grinding/blob/0793f728ac65816c50a5f721e32866592153aeb7/Mac-Address-Code.ino)
 - Server.ino (Sender)
 MAC Address: C8:F0:9E:4E:55:B0  
